@@ -11,7 +11,7 @@ public class UserProcessor implements Callable<Integer> {
     private String userRecord;
     private UserDao userDao;
 
-    UserProcessor(String userRecord, UserDao userDao) {
+    public UserProcessor(String userRecord, UserDao userDao) {
         this.userRecord = userRecord;
         this.userDao = userDao;
     }

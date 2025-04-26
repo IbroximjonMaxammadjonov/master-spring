@@ -1,30 +1,30 @@
-ibrohimjon, 1, ibrohimjonmahammadjonov@gmail.com
-azizbek, 2, azizbekkamolov@gmail.com
-dilshod, 3, dilshodkarimov@gmail.com
-nodirbek, 4, nodirbekrashidov@gmail.com
-olimjon, 5, olimjonsobirov@gmail.com
-jasur, 6, jasurmamatov@gmail.com
-shahzod, 7, shahzodakramov@gmail.com
-behruz, 8, behruzyuldashev@gmail.com
-sardor, 9, sardortemirov@gmail.com
-mirjalol, 10, mirjalolmurodov@gmail.com
-oybek, 11, oybekqosimov@gmail.com
-doston, 12, dostonxolmatov@gmail.com
-temur, 13, temurmuhammedov@gmail.com
-ulugbek, 14, ulugbekhasanov@gmail.com
-anvar, 15, anvarkomilov@gmail.com
-farhod, 16, farhodnazarov@gmail.com
-muhammadali, 17, muhammadalisaidov@gmail.com
-shoxrux, 18, shoxruxabduqahhorov@gmail.com
-jamshid, 19, jamshidbekov@gmail.com
-bobur, 20, bobursharipov@gmail.com
-abduvohid, 21, abduvohidxasanov@gmail.com
-bahodir, 22, bahodirsoliev@gmail.com
-murod, 23, murodboymatov@gmail.com
-dilshodbek, 24, dilshodbektoshpulatov@gmail.com
-islom, 25, islomrahimov@gmail.com
-jasurbek, 26, jasurbekqobilov@gmail.com
-shahriyor, 27, shahriyorolimov@gmail.com
-hamidulloh, 28, hamidullohjonov@gmail.com
-olim, 29, olimmirzayev@gmail.com
-sarvar, 30, sarvarkamolov@gmail.com
+ibrohimjon,1, ibrohimjonmahammadjonov@gmail.com
+azizbek,2, azizbekkamolov@gmail.com
+dilshod,3, dilshodkarimov@gmail.com
+nodirbek,4, nodirbekrashidov@gmail.com
+olimjon,5, olimjonsobirov@gmail.com
+jasur,6, jasurmamatov@gmail.com
+shahzod,7, shahzodakramov@gmail.com
+behruz,8, behruzyuldashev@gmail.com
+sardor,9, sardortemirov@gmail.com
+mirjalol,10, mirjalolmurodov@gmail.com
+oybek,11, oybekqosimov@gmail.com
+doston,12, dostonxolmatov@gmail.com
+temur,13, temurmuhammedov@gmail.com
+ulugbek,14, ulugbekhasanov@gmail.com
+anvar,15, anvarkomilov@gmail.com
+farhod,16, farhodnazarov@gmail.com
+muhammadali,17, muhammadalisaidov@gmail.com
+shoxrux,18, shoxruxabduqahhorov@gmail.com
+jamshid,19, jamshidbekov@gmail.com
+bobur,20, bobursharipov@gmail.com
+abduvohid,21, abduvohidxasanov@gmail.com
+bahodir,22, bahodirsoliev@gmail.com
+murod,23, murodboymatov@gmail.com
+dilshodbek,24, dilshodbektoshpulatov@gmail.com
+islom,25, islomrahimov@gmail.com
+jasurbek,26, jasurbekqobilov@gmail.com
+shahriyor,27, shahriyorolimov@gmail.com
+hamidulloh,28, hamidullohjonov@gmail.com
+olim,29, olimmirzayev@gmail.com
+sarvar,30, sarvarkamolov@gmail.com
