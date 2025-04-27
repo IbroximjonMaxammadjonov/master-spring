@@ -1,13 +1,13 @@
-package com.ibroximjon.spring_core;
+package com.ibroximjon.springbasics;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringCoreApplicationTests {
+class SpringBasicsApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
